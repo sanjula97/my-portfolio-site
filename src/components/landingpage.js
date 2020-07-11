@@ -16,9 +16,35 @@ class LandingPage extends Component{
 
                             <p>HTML/CSS | JavaScript | ReactJS | NodeJS | Express | JAVA | MongoDB</p>
 
-                            <div className="scial-links">
+                            <div className="social-links">
+
+                                {/* linkedin */}
                                 <a href="http://google.com" rel="noopener noreferrer" target="_blank">
                                     <i class="fa fa-linkedin-square"  aria-hidden="true"></i>
+                                </a>
+                                {/* Github */}
+                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                    <i class="fa fa-github"  aria-hidden="true"></i>
+                                </a>
+                                {/* bitbucket */}
+                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                    <i class="fa fa-bitbucket"  aria-hidden="true"></i>
+                                </a>
+                                {/* freecode camp */}
+                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                    <i class="fa fa-free-code-camp"  aria-hidden="true"></i>
+                                </a>
+                                {/* twitter */}
+                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                    <i class="fa fa-twitter"  aria-hidden="true"></i>
+                                </a>
+                                {/* facebook */}
+                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                    <i class="fa fa-facebook-square"  aria-hidden="true"></i>
+                                </a>
+                                {/* instergram */}
+                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                    <i class="fa fa-instagram"  aria-hidden="true"></i>
                                 </a>
                             </div>
                         </div>
