@@ -15,6 +15,12 @@ class LandingPage extends Component{
                             <hr />
 
                             <p>HTML/CSS | JavaScript | ReactJS | NodeJS | Express | JAVA | MongoDB</p>
+
+                            <div className="scial-links">
+                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                    <i class="fa fa-linkedin-square"  aria-hidden="true"></i>
+                                </a>
+                            </div>
                         </div>
                     </Cell>
                 </Grid>
