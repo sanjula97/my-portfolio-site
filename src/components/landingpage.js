@@ -10,7 +10,7 @@ class LandingPage extends Component{
                     <img className="awatar-img" src="https://image.flaticon.com/icons/png/512/924/924915.png" alt="My picture"/>
 
                         <div className="banner-text">
-                            <h1>Full Stack Web Developer</h1>
+                            <h1>SOFTWARE ENGINEER</h1>
 
                             <hr />
 
